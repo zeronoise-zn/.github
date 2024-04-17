@@ -10,7 +10,7 @@ The 2024 year brings two new products to the ZeroNoise portfolio: the [Fury](htt
 
 ---
 <details> 
-<summary>"Tell me more!"</summary>
+<summary>Tell me more!</summary>
 <br><ul>
 
 <li>ZeroNoise Rally World news:<ul>
@@ -27,6 +27,15 @@ The 2024 year brings two new products to the ZeroNoise portfolio: the [Fury](htt
 </ul>
 </details>
 
+<details> 
+<summary>Who is talking about us?</summary>
+<br><ul>
+<li>FIA Formula E - 2024 <a href="https://www.fiaformulae.com/it/news/493761">Driver's Eye: a full lap of the new Tokyo E-Prix Circuit</a></li>
+<li>FIA Formula E - 2023 <a href="https://www.fiaformulae.com/en/video/418855/wehrlein-onboard-drivers-eye-web">Driver's Eye: Wehrlein laps Tempelhof</a></li>
+<li>FIA Formula1® - 2023 <a href="https://www.formula1.com/en/latest/article/visor-cam-drivers-eye-footage-from-fernando-alonso-in-bahrain.1Kt5Wir5hR7NW5CxrseIhf">Driver's Eye footage from Fernando Alonso in Bahrain</a></li>
+<li>motorsport.com - 2023 <a href="https://www.motorsport.com/f1/news/how-drivers-eye-became-a-formula-1-tv-gamechanger/10426795/">How Driver's Eye camera became a Formula1 TV gamechanger</a></li>
+</ul>
+</details>
 
 <!--
 Made with 🖤 @zeronoise
