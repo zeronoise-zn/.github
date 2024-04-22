@@ -37,6 +37,12 @@ The 2024 year brings two new products to the ZeroNoise portfolio: the [Fury](htt
 </ul>
 </details>
 
+
+## Firmware versions and product information :earth_africa::computer:
+* [2024 Fury Digital Intercom Amplifier](https://github.com/zeronoise-zn/zn-fury/)
+* [2024 Wired Wireless (WW) System](https://github.com/zeronoise-zn/zn-wired-wireless/)
+
+
 <!--
 Made with 🖤 @zeronoise
 -->
